@@ -1,1 +1,2 @@
 # emailsclier
+This Python program takes an email address and splits it into two parts: the username and the domain. It's a beginner project that helped me practice using `input()`, string methods, and basic print formatting. Easy to run and useful for learning how strings work!
